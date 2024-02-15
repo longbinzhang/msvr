@@ -84,7 +84,7 @@ Xiong, T., Li, C., Bao, Y., Hu, Z., & Zhang, L. (2015). A combination method for
 
 
 
-
+## Other links
 ---------------------------------------------------------------------------------------------------------------
 
 https://machinelearningmastery.com/multi-output-regression-models-with-python/
