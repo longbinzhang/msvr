@@ -1,3 +1,4 @@
+
 # Multiple-output Support Vector Regression
 
 Multiple-output support vector regression is a method which implements support vector regression with multi-input and multi-output. This package is based on our paper [Multi-step-ahead time series prediction using multiple-output support vector regression](https://www.sciencedirect.com/science/article/abs/pii/S092523121300917X).
@@ -77,6 +78,27 @@ Please refer to the below papers for probably citation.
 Bao, Y., Xiong, T., & Hu, Z. (2014). Multi-step-ahead time series prediction using multiple-output support vector regression. Neurocomputing, 129, 482-493.
 
 Xiong, T., Li, C., Bao, Y., Hu, Z., & Zhang, L. (2015). A combination method for interval forecasting of agricultural commodity futures prices. Knowledge-Based Systems, 77, 92-102.
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------
+
+https://machinelearningmastery.com/multi-output-regression-models-with-python/
+
+Summary：
+The problem of multioutput regression in machine learning.
+How to develop machine learning models that inherently support multiple-output regression.
+How to develop wrapper models that allow algorithms that do not inherently support multiple outputs to be used for multiple-output regression.
+
+
+
+
+
+
 
 Hu, Z., Bao, Y., Chiong, R., & Xiong, T. (2015). Mid-term interval load forecasting using multi-output support vector regression with a memetic algorithm for feature selection. Energy, 84, 419-431.
 
